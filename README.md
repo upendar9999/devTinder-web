@@ -35,7 +35,10 @@
 - See all my connections
 
 - New Page - See all my connections
-- New Page - See all my Conenction REquests
+- New Page - See all my Conenction Requests
+
+- Accpet/Reject connection requests
+
 Body 
     NavBar
     Route=/  => Feed
